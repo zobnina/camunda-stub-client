@@ -1,4 +1,4 @@
-package com.example.camundaclient;
+package com.example.stubclient;
 
 public class Starter {
     public static void main(String[] args) {

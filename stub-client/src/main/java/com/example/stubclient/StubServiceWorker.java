@@ -1,4 +1,4 @@
-package com.example.camundaclient;
+package com.example.stubclient;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
