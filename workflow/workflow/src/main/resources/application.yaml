@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/camunda_database
+    username: demo
+    password: demo
+    driverClassName: org.postgresql.Driver
+
+camunda.bpm.admin-user:
+  id: demo
+  password: demo
